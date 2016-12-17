@@ -1,0 +1,75 @@
+###################
+# # Fuente compilado
+###################
+* .com
+*.clase
+* .dll
+*.exe
+* .pdb
+* .dll.config
+*.cache
+* .suo
+# Incluir dlls si están en el directorio de paquetes NuGet
+! / Paquetes / * / lib / *. Dll
+! / Paquetes / * / lib / * / *. Dll
+# Incluir dlls si están en el directorio CommonReferences
+! * CommonReferences / *. Dll
+####################
+# VS Upgrade cosas #
+####################
+UpgradeLog.XML
+_UpgradeReport_Files /
+###############
+# # Directorios
+###############
+compartimiento/
+obj /
+Resultados de la prueba/
+###################
+# Publicar en la Web de registro #
+###################
+* .Publish.xml
+#############
+# # ReSharper
+#############
+/_ReSharper.*
+* .ReSharper. *
+############
+# Paquetes #
+############
+# Es mejor para descomprimir estos archivos y comprometer la fuente cruda
+# Git tiene su propio construido en los métodos de compresión
+* .7z
+* .dmg
+* .gz
+* .iso
+*.tarro
+* .rar
+*.alquitrán
+*.cremallera
+######################
+# Registros y bases de datos #
+######################
+*.Iniciar sesión
+* .sqlite
+# OS genera archivos #
+######################
+.DS_Store?
+ehthumbs.db
+¿Icono?
+Thumbs.DB
+[Bb] en
+[Oo] bj
+[TT] est [Rr] esultados
+* .suo
+*.usuario
+*. [CC] dolor
+* [Rr] esharper *
+paquetes
+NuGet.exe
+_ [SS] criptas
+*.exe
+* .dll
+* .nupkg
+* .ncrunchsolution
+* .dot [CC] durante
